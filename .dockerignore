@@ -1,0 +1,4 @@
+**/.hg*
+**/.git*
+**/*.cmd
+build.sh

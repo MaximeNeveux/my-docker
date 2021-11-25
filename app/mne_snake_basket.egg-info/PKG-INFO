@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: mne-snake-basket
+Version: 0.0.1.dev1
+Summary: A sample project.
+Home-page: https://github.com/MaximeNeveux/mne-snake-basket.git
+Author: Maxime NEVEUX
+Author-email: maxime.neveux@telecomnancy.eu
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Intended Audience :: Education
+
+Snake Basket
+===========
+
+A sample project to experiment Python packaging.
+
+

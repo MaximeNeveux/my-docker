@@ -1,0 +1,9 @@
+MANIFEST.in
+README.rst
+requirements.txt
+setup.py
+mne_snake_basket.egg-info/PKG-INFO
+mne_snake_basket.egg-info/SOURCES.txt
+mne_snake_basket.egg-info/dependency_links.txt
+mne_snake_basket.egg-info/requires.txt
+mne_snake_basket.egg-info/top_level.txt
