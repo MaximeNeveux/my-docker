@@ -13,7 +13,7 @@ pipeline {
            steps {
                sh """
                    mkdir -p app-log
-                   docker run --rm  -d -v app-log:/var/log/snake-basket: --name snake-basket tncy2021<code>/snake-basket
+                   docker run --rm  -d -v app-log:/var/log/snake-basket: --name snake-basket tncy2021mne/snake-basket
                    echo "Container started"
                                       docker stop snake-basket
                                   """
