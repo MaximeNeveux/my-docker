@@ -4,7 +4,7 @@ pipeline {
        stage('Build') {
            steps {
                sh """
-                   docker build -t 'tncy2021mne' . > build.out
+                   docker build -t 'tncy2021mne/snake-basket' . > build.out
                    cat build.out
                """
            }
